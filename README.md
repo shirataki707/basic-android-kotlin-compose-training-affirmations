@@ -1,6 +1,16 @@
-Affirmations App - Starter Code
+# Affirmations App - Starter Code
+[Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-training-add-scrollable-list?hl=ja&continue=https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-2?hl%3Dja%23codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-training-add-scrollable-list#3)
+
+## Screenshot
+<img src="https://github.com/user-attachments/assets/6180ebab-b6aa-4cf1-a5b7-c385ad6e0c48" width="300">
+
+## Learn
+- LocalDayoutDirection.current
+  - 言語によってレイアウトの方向が右から左の場合があり、現在はどちらのレイアウト方向なのかを取得できる
+
 ================================
 
+## Overview
 Starter code for the Android Basics with Compose: Affirmations app.
 
 
